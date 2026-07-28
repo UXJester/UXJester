@@ -3,90 +3,54 @@
 </p>
 <div align="center">
 <h1>Hi, I'm Bryan!</h1>
-<p>USAF Veteran // Front-end Developer // Dad // Biker // Intergalactic Bounty Hunter // Comedian</p>
+<p>Engineering Leader // USAF Veteran // Dad // Biker // Intergalactic Bounty Hunter // Comedian</p>
 </div>
 <br/>
 
 #### :: a little bit about me ::
 
-- I am... currently seeking new opportunites to continue my 15+ year career as a front-end engineer.
-- I have an eclectic background in construction, user experience, front end development, and consulting.
-- I have a deep rooted love for beautiful web design, user experience, clean code, accessibility, and so much more.
-- Currently learning: Storyblok.
-- Currently loving: React, TypeScript, Next.js and TailwindCSS.
-- If I'm not writing code I'm probably out on my motorcycle.
+- I'm Director of Software Development at [Upstream Impact](https://www.linkedin.com/company/upstream-impact-software). My team builds software that helps food pantries and human-services nonprofits serve more people.
+- 15+ years in frontend architecture, design systems, and developer experience. I've led a 26-engineer discipline and cofounded its design system. Now I grow small teams that punch above their weight.
+- CSS was my first language. It started a career-long love affair with design, experience, and the systems beneath.
+- One principle above the rest: **intuitive first, elegant always.**
+- Service is my through-line: the Air Force, veteran advocacy, the products my team ships.
+- If I'm not working, I'm out on my motorcycle.
 
 #### :: my toolbelt ::
 
-##### languages, libraries, & frameworks
+##### building with
 
 <p>
   <img src="https://img.shields.io/badge/html5%20-C97D60.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3%20-73956F.svg?&style=for-the-badge&logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript%20-454851.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript5%20-5A7C8A.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript%20-5A7C8A.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/react%20-73956F.svg?&style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/next.js%20-C97D60.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite%20-5A7C8A.svg?&style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/sass%20-454851.svg?&style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS%20-73956F.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap%20-C97D60.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vitest%20-5A7C8A.svg?&style=for-the-badge&logo=vitest&logoColor=white" />
-  <img src="https://img.shields.io/badge/jest%20-454851.svg?&style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js%20-73956F.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/markdown%20-C97D60.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS%20-454851.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/storybook%20-5A7C8A.svg?&style=for-the-badge&logo=storybook&logoColor=white" />
-  <img src="https://img.shields.io/badge/prisma%20-454851.svg?&style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL%20-73956F.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20-C97D60.svg?&style=for-the-badge&logo=sql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL%20-5A7C8A.svg?&style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET%20-454851.svg?&style=for-the-badge&logo=.NET&logoColor=white" />
+  <img src="https://img.shields.io/badge/c%23%20%2F%20.NET%20-73956F.svg?&style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20-C97D60.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20-454851.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20-5A7C8A.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma%20-73956F.svg?&style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-##### tools & practices
+##### leading with
 
 <p>
-  <img src="https://img.shields.io/badge/Vercel%20-C97D60.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20-5A7C8A.svg?&style=for-the-badge&logo=azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20-73956F.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git%20-454851.svg?&style=for-the-badge&logo=Git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Starship%20-C97D60.svg?&style=for-the-badge&logo=starship&logoColor=white" />
-  <img src="https://img.shields.io/badge/oh%20my%20zsh%20-5A7C8A.svg?&style=for-the-badge&logo=zsh&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell%20-73956F.svg?&style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/react%20hooks%20-454851.svg?&style=for-the-badge&logo=react%20hooks&logoColor=white" />
-  <img src="https://img.shields.io/badge/RESTful%20APIs%20-C97D60.svg?&style=for-the-badge&logo=&logoColor=white" />
-  <img src="https://img.shields.io/badge/Styled Components%20-5A7C8A.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman%20-73956F.svg?&style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Object Oriented Programming%20-454851.svg?&style=for-the-badge&logo=OOP&logoColor=white" />
-  <img src="https://img.shields.io/badge/Test Driven Development%20-C97D60.svg?&style=for-the-badge&logo=TDD&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responsive Web Design%20-5A7C8A.svg?&style=for-the-badge&logo=TDD&logoColor=white" />
-  <img src="https://img.shields.io/badge/Accessibility Best Practices%20-73956F.svg?&style=for-the-badge&logo=TDD&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webpack%20-454851.svg?&style=for-the-badge&logo=webpack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Babel%20-C97D60.svg?&style=for-the-badge&logo=babel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop%20-5A7C8A.svg?&style=for-the-badge&logo=adobe-Photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Illustrator%20-73956F.svg?&style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma%20-454851.svg?&style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kanban Systems%20-C97D60.svg?&style=for-the-badge&logo=&logoColor=white" />
-</p>
-
-##### other
-
-<p>
-  <img src="https://img.shields.io/badge/Remote%20Team%20Collaboration%20-5A7C8A.svg?&style=for-the-badge&logo=OOP&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Customer%20Service%20-454851.svg?&style=for-the-badge&logo=TDD&logoColor=white" />
-  <img src="https://img.shields.io/badge/Team%20Leadership%20-C97D60.svg?&style=for-the-badge&logo=TDD&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireframing%20-73956F.svg?&style=for-the-badge&logo=OOP&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design%20-5A7C8A.svg?&style=for-the-badge&logo=OOP&logoColor=white" />
-  <img src="https://img.shields.io/badge/Video%20Production%20-454851.svg?&style=for-the-badge&logo=&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design%20Systems%20-C97D60.svg?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/User%20Experience%20-454851.svg?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Accessibility%20-5A7C8A.svg?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Design%20-73956F.svg?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agile%20Delivery%20-C97D60.svg?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Product%20Strategy%20-454851.svg?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Servant%20Leadership%20-5A7C8A.svg?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Developer%20Experience%20-73956F.svg?&style=for-the-badge" />
 </p>
 
 #### :: my github stats ::
 
 <div align="center">
-   <a href="">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=UXJester&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&line_height=40" />
-  </a>
-  <a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UXJester&theme=onedark&line_height=40&hide=css"/>
-  </a>
+  <img align="center" src="./profile/stats.svg" alt="Bryan's GitHub stats" />
 </div>
